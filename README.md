@@ -32,12 +32,12 @@ exception is noted.
 1. clone dotfiles:
 
     ```bash
-    git clone git@github.com:zaksoup/dotfiles.git ~/workspace/dotfiles
+    git clone git@github.com:codeforamerica/clientcomm-setup.git ~/workspace/clientcomm-setup
     ```
 1. run install script
 
     ```bash
-    cd ~/workspace/dotfiles
+    cd ~/workspace/clientcomm-setup
     ./install
     ```
 
