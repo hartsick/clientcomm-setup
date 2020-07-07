@@ -514,6 +514,33 @@
             "appdir": "/Applications"
           }
         }
+      },
+      "tuple": {
+        "version": "0.77.1,2020-07-01-3fa5f05f",
+        "options": {
+          "full_name": "tuple",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "spectacle": {
+        "version": "1.2",
+        "options": {
+          "full_name": "spectacle",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
+      },
+      "shiftit": {
+        "version": "1.6.6",
+        "options": {
+          "full_name": "shiftit",
+          "args": {
+            "appdir": "/Applications"
+          }
+        }
       }
     }
   },
